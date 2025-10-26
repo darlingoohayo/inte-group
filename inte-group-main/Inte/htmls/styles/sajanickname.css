@@ -43,6 +43,7 @@ html, body {
   bottom: 450px;
 }
 
+
 .Profile img {
   width: 300px;
   height: 400px;
@@ -68,6 +69,7 @@ html, body {
   animation: fadeUpBlur 0.9s ease-out 0.6s forwards;
   opacity: 0;
 }
+
 
 .info {
   position: relative;
@@ -134,6 +136,7 @@ html, body {
   opacity: 0;
 }
 
+
 .Hobbies {
   font-size: 80px;
   text-align: center;
@@ -141,6 +144,7 @@ html, body {
   bottom: 700px;
   text-shadow: 0 0 15px rgba(0, 0, 0, 0.9);
 }
+
 
 .olhobby {
   position: relative;
@@ -177,6 +181,7 @@ html, body {
   animation-name: moveRightToLeft;
 }
 
+
 @keyframes moveLeftToRight {
   0% {
     transform: translateX(-120%);
@@ -193,6 +198,7 @@ html, body {
     opacity: 0;
   }
 }
+
 
 @keyframes moveRightToLeft {
   0% {
